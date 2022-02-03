@@ -7,3 +7,6 @@
 [submodule "submodules/ex3-ms-framework"]
 	path = submodules/ex3-ms-framework
 	url = https://github.com/abhi08999/ex3-ms-framework.git
+[submodule "submodules/ex3-ms-mapping"]
+	path = submodules/ex3-ms-mapping
+	url = https://github.com/abhi08999/ex3-ms-mapping.git
