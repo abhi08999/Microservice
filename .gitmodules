@@ -1,0 +1,3 @@
+[submodule "submodules/ex3-ms-entities"]
+	path = submodules/ex3-ms-entities
+	url = https://github.com/abhi08999/ex3-ms-entities.git
