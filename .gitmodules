@@ -10,3 +10,6 @@
 [submodule "submodules/ex3-ms-mapping"]
 	path = submodules/ex3-ms-mapping
 	url = https://github.com/abhi08999/ex3-ms-mapping.git
+[submodule "submodules/rabbitmq-broker"]
+	path = submodules/rabbitmq-broker
+	url = https://github.com/abhi08999/rabbitmq-broker.git
